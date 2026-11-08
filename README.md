@@ -1,3 +1,5 @@
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/yiddi-type-logo-dark.svg"><img src="assets/yiddi-type-logo.svg" alt="Yiddi Type" width="380"></picture></p>
+
 # Yiddi Type
 
 **Yiddi Type** by **Yiddi AI** - Yiddish speech to text, all on your own Windows computer.
